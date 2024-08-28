@@ -1,0 +1,5 @@
+C1      | Samudaya     | CASHIER       | samudaya@istore.com  | SAMUDAYA  | samudaya |
+C2      | Lahiru     | CASHIER       | lahiru@istore.com  | LAHIRU  | lahiru |
+C3      | Sadun     | CASHIER       | sadun@istore.com  | SADUN  | sadun |
+C4      | Charith     | CASHIER       | charith@istore.com  | CHARITH  | charith |
+C5      | Tharindu     | CASHIER       | tharindu@istore.com  | THARINDU  | tharindu |

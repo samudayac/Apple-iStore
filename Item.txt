@@ -1,0 +1,8 @@
+IF1     | iPhone   | iPhone X   | Rs.70,000/=   | 20 |
+IF2     | iPhone   | iPhone XS | Rs.95,000/=   | 15 |
+IF3     | iPhone   | iPhone 11 | Rs.120,000/= | 25 |
+IF4     | iPhone   | iPhone 12 | Rs.150,000/= | 30 |
+IF5     | iPhone   | iPhone 12 PRO | Rs.170,000/= | 10 |
+IF6     | iPhone   | iPhone 13 | Rs.230,000/= | 18 |
+IW     | iWatch   | iWatch SERIOUS 3 | RS.35,000/= | 10 |
+IP1     | iPad   | iPad mini | Rs.70,000/= | 10 |
